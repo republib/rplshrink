@@ -1,0 +1,1 @@
+/home/bin/std/img_trans.pl
